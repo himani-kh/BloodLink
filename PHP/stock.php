@@ -58,7 +58,6 @@ echo "<!DOCTYPE html>
 <body>
     <h1>Stock Details</h1>";
 
-// Your PHP logic to fetch and display stock data goes here
 $servername = "localhost";
 $username = "root";
 $password = "";
