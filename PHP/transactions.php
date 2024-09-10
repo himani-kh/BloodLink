@@ -58,7 +58,6 @@ echo "<!DOCTYPE html>
 <body>
     <h1>Blood Transfusion Information</h1>";
 
-// Your PHP logic to fetch and display transaction data goes here
 $servername = "localhost";
 $username = "root";
 $password = "";
