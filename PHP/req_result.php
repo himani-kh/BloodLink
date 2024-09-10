@@ -61,7 +61,6 @@ echo "<!DOCTYPE html>
 <body>
     <h2>Donor Matching Results</h2>";
 
-// Your PHP logic goes here
 $servername = "localhost";
 $username = "root";
 $password = "";
