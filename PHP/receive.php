@@ -38,7 +38,6 @@ echo "<!DOCTYPE html>
 </head>
 <body>";
 
-// Define your database connection information
 $host = "localhost";
 $username = "root";
 $password = "";
